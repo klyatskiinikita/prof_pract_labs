@@ -1,0 +1,17 @@
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/bin/Debug/net7.0/lab_clr
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/bin/Debug/net7.0/lab_clr.deps.json
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/bin/Debug/net7.0/lab_clr.runtimeconfig.json
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/bin/Debug/net7.0/lab_clr.dll
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/bin/Debug/net7.0/lab_clr.pdb
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.csproj.AssemblyReference.cache
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.GeneratedMSBuildEditorConfig.editorconfig
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.AssemblyInfoInputs.cache
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.AssemblyInfo.cs
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.csproj.CoreCompileInputs.cache
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.dll
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/refint/lab_clr.dll
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.pdb
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.genruntimeconfig.cache
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/ref/lab_clr.dll
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/bin/Debug/net7.0/runtimes/linux-x64/native/ildasm
+/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/obj/Debug/net7.0/lab_clr.csproj.CopyComplete

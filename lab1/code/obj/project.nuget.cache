@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eMksyPP1jPsV5ORmqm8jplkSeGCk/mGqNntlm6nHhEpgOLNF/ecmSZfzJ18GCXhk+9Rnt8aJCp5lS7v5M+7WBg==",
+  "success": true,
+  "projectFilePath": "/home/arch/xmxhsoefj/projects/dotnet/pppi/lab_clr/lab_clr.csproj",
+  "expectedPackageFiles": [
+    "/home/arch/xmxhsoefj/.nuget/packages/runtime.linux-x64.microsoft.netcore.ildasm/7.0.0/runtime.linux-x64.microsoft.netcore.ildasm.7.0.0.nupkg.sha512",
+    "/home/arch/xmxhsoefj/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.2/microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
