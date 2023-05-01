@@ -1,0 +1,15 @@
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/bin/Debug/net7.0/lab4
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/bin/Debug/net7.0/lab4.deps.json
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/bin/Debug/net7.0/lab4.runtimeconfig.json
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/bin/Debug/net7.0/lab4.dll
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/bin/Debug/net7.0/lab4.pdb
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/lab4.csproj.AssemblyReference.cache
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/lab4.GeneratedMSBuildEditorConfig.editorconfig
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/lab4.AssemblyInfoInputs.cache
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/lab4.AssemblyInfo.cs
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/lab4.csproj.CoreCompileInputs.cache
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/lab4.dll
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/refint/lab4.dll
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/lab4.pdb
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/lab4.genruntimeconfig.cache
+/home/xmxhsoefj/dev/prof_pract_labs/lab4/code/obj/Debug/net7.0/ref/lab4.dll
