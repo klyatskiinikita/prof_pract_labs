@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RTpLUGl6jOTo7D4TPOT9mCurUbWFsnOfx0fuskrIFjhKzoCsQAxPwWaGCKShsFSNI4mETYJ5LoXTspQMFduexQ==",
+  "success": true,
+  "projectFilePath": "/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/lab5.csproj",
+  "expectedPackageFiles": [
+    "/home/xmxhsoefj/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.csproj.AssemblyReference.cache
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.GeneratedMSBuildEditorConfig.editorconfig
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.AssemblyInfoInputs.cache
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.AssemblyInfo.cs
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.csproj.CoreCompileInputs.cache
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/bin/Debug/net7.0/lab5
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/bin/Debug/net7.0/lab5.deps.json
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/bin/Debug/net7.0/lab5.runtimeconfig.json
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/bin/Debug/net7.0/lab5.dll
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/bin/Debug/net7.0/lab5.pdb
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/bin/Debug/net7.0/Newtonsoft.Json.dll
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.csproj.CopyComplete
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.dll
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/refint/lab5.dll
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.pdb
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/lab5.genruntimeconfig.cache
+/home/xmxhsoefj/dev/prof_pract_labs/lab5/code/obj/Debug/net7.0/ref/lab5.dll
